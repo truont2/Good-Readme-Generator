@@ -34,6 +34,10 @@ https://github.com/truont2/portfolio-page-generator
 To install this application, clone the necessary files in the github repository. Once done, open up the terminal in the index.js file where you will enter npm install. This will in stall the necessary packages needed to run this application. 
 ## Usage
 
+
+https://user-images.githubusercontent.com/91705635/150697375-bd7ece9f-fbed-4648-8473-4d88ad2299eb.mp4
+
+
 In your index,js terminal, enter node index.js to run the application.
 
 ## Contribute
