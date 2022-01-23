@@ -1,58 +1,45 @@
-# <DFSAF>
+# <Good-Readme-Generator>
 
-        ## Description
-        
-        Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-        
-        - FDAF
-        
-        ## Table of Contents 
-        
-        - [Description](#description)
-        - [Installation](#installation)
-        - [Usage](#usage)
-        - [How to Contribute](#contributing)
-        - [Tests](#tests)
-        - [Credits](#credits)
-        - [License](#license)
-        
-        ## Installation
-        
-        FDAFDSA
-        
-        ## Usage
-        
-        FDSAFDSA
-        
-        To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-        
-            md
-            ![alt text](assets/images/screenshot.png)
-            
-        
-        ## Credits
-        
-        List your collaborators, if any, with links to their GitHub profiles.
-        
-        If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-        
-        If you followed tutorials, include links to those here as well.
-        
-        ## License
-        
-        This project is licensed under the terms of the Academic Free License v3.0,Apache license 2.0,Artistic license 2.0,Boost Software License 1.0,BSD 2-clause "Simplified" license,BSD 3-clause "New" or "Revised" license,BSD 3-clause Clear license,Creative Commons license family,Creative Commons Zero v1.0 Universal,Creative Commons Attribution 4.0,Creative Commons Attribution Share Alike 4.0,Do What The F*ck You Want To Public License,Educational Community License v2.0,Eclipse Public License 1.0,Eclipse Public License 2.0,European Union Public License 1.1,GNU Affero General Public License v3.0,GNU General Public License family,GNU General Public License v2.0,GNU General Public License v3.0,GNU Lesser General Public License family,GNU Lesser General Public License v2.1,GNU Lesser General Public License v3.0,ISC,LaTeX Project Public License v1.3c,Microsoft Public License,MIT,Mozilla Public License 2.0,Open Software License 3.0,PostgreSQL License,SIL Open Font License 1.1,University of Illinois/NCSA Open Source License,The Unlicense,zLib License.
-        
-        ## Badges
-        
-        ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-        
-        Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-        
-        
-        ## How to Contribute
-        
-        FDSAFSDA
-        
-        ## Tests
-        
-        FDSAFAS
+## Table of Contents
+​
+- [Description](#description)
+- [Authors](#authors)
+- [Deployed Link](#deployed-Link)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How to Contribute](#contribute)
+- [Resources](#resources)
+
+### Description
+
+Instead of wasting time writing yourself a readme from scratch, this application provides users with a quick alternative to build a professional readme in half the time. This application works by automatically generate a professional readme.md for users by utilizing back-end features such as node.js and NPM. Users will be prompted to answer a few quick questions about the content of the readme and the application will use that given information to generate a readme so that users can spend more time on their project or application. Based on the information provided when the user was prompted, the readme file will then be populated with that information. 
+
+This project taught be the fundamentals of using node and NPM to create an aplication without using the browser that can read, write, or edit files. I learned to use node.js to write files from scratch using the writeFile() method and how to use packages from npm such as inquirer to prompt questions for the user. A issue I encounterd while building this project was on fully understanding how inquirer worked, how the data was returned, and how the process that information. This was solved by reading the documentation on inquirer and noticing that the data can be accesssed in a promise that will then run the generateMarkdown function that was exported from generateMarkdown.js. Once I understood this, the application was built with little effort. In the future, I hope to possiby look into more npm packages and see if those features can be used to style the readme more. Such as adding images, icons, styling, and more to make a more professional readme.
+
+The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
+
+## Author 
+- Takara Truong
+
+## Deployed Link
+
+fdsfsd
+
+## Installation
+
+To install this application, clone the necessary files in the github repository. Once done, open up the terminal in the index.js file where you will enter npm install. This will in stall the necessary packages needed to run this application. 
+## Usage
+
+In your index,js terminal, enter node index.js to run the application.
+## Contribute
+
+
+## Resources 
+
+* https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
+* https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
+* https://www.npmjs.com/package/inquirer#prompt 

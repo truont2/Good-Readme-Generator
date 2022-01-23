@@ -1,34 +1,37 @@
-# fdas
+# hello
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- fds
+- fdsa
 
 ## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
+- [How to Contribute](#contributing)
 - [Tests](#tests)
 - [Credits](#credits)
 - [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
-afdsa
+fdsa
 
 ## Usage
 
-fdas
+fdsa
 
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    md
-    ![alt text](assets/images/screenshot.png)
-    
+md
+![alt text](assets/images/screenshot.png)
+
 
 ## Credits
 
@@ -40,14 +43,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-This project is licensed under the terms of the Academic Free License v3.0.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
+This project is licensed under the terms of the Apache license 2.0
 
 ## How to Contribute
 
@@ -56,3 +52,7 @@ fdsa
 ## Tests
 
 fdsa
+
+## Questions
+
+[Github profile] (https://github.com/truont2/)
