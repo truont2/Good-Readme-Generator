@@ -38,7 +38,7 @@ First download any dependencies by opening your index,js terminal and entering "
 
 ### Video Walkthrough: 
 
-![video walkthrough](./walkthrough.gif)
+![video walkthrough](./assets/walkthrough.gif)
 
 ## Contribute
 
