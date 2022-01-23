@@ -30,12 +30,12 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'How do you contribute to this application?'
+        message: 'How would someone be able to contribute to this application?'
     },
     {
         type: 'input',
         name: 'test',
-        message: 'How do you test the application?'
+        message: 'How did you test the application to confirm it works?'
     },
     {
         type: 'checkbox',
@@ -52,11 +52,6 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'What is your email?'
-    },
-    {
-        type: 'input',
-        name: 'contact',
-        message: 'How do you want people to contact you for additional questions?'
     }
 ];
 

@@ -1,37 +1,46 @@
-# Readme generator
+# fdsa
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- Generate a profesional readme easilty 
+- fasdfasdf
 
 ## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Contribute](#contributing)
 - [Tests](#tests)
+- [How to Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
 
-npm install
+fasd
 
 ## Usage
 
-node index.js
+af
 
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-md
-![alt text](assets/images/screenshot.png)
+Add image relative path within ()
+Example: ![alt text](assets/images/screenshot.png)
 
+## Tests
+
+afds
+Testing
+Most users are weary of using open source code if the author(s) do not include tests. Without tests there is no verification that the code actually works. The testing section of the README file describes what tests you have created and how to run them.
+
+## Contribute
+
+af
 
 ## Credits
 
@@ -43,16 +52,10 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-This project is licensed under the terms of the Apache license 2.0
-
-## How to Contribute
-
-access github link
-
-## Tests
-
-test
+This project is licensed under the terms of the BSD 2-clause "Simplified" license
 
 ## Questions
+Contact me for any further questions: 
 
-[Github profile] (https://github.com/truont2/)
+![Github profile](https://github.com/fdas/)
+![Email address](fads)

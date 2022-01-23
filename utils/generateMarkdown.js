@@ -124,8 +124,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Contribute](#contributing)
 - [Tests](#tests)
+- [How to Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
@@ -141,8 +141,17 @@ ${data.usage}
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 Add image relative path within ()
-![alt text](assets/images/screenshot.png)
+Example: ![alt text](assets/images/screenshot.png)
 
+## Tests
+
+${data.test}
+Testing
+Most users are weary of using open source code if the author(s) do not include tests. Without tests there is no verification that the code actually works. The testing section of the README file describes what tests you have created and how to run them.
+
+## Contribute
+
+${data.contribution}
 
 ## Credits
 
@@ -156,20 +165,12 @@ If you followed tutorials, include links to those here as well.
 
 ${section}
 
-## How to Contribute
-
-${data.contribution}
-
-## Tests
-
-${data.test}
-
 ## Questions
+Contact me for any further questions: 
 
-[Github profile] (https://github.com/${data.username}/)
+1. ![Github profile](https://github.com/${data.username}/)
+2. ![Email address](${data.email})
 `;
-
-
 }
 
 module.exports = generateMarkdown;

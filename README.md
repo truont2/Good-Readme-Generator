@@ -40,9 +40,6 @@ First download any dependencies by opening your index,js terminal and entering "
 
 ![video walkthrough](./walkthrough.gif)
 
-
-
-
 ## Contribute
 
 To contribute, contact me at https://github.com/truont2/
