@@ -1,4 +1,4 @@
-# hello
+# Readme generator
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -6,7 +6,7 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- fdsa
+- Generate a profesional readme easilty 
 
 ## Table of Contents 
 
@@ -21,11 +21,11 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-fdsa
+npm install
 
 ## Usage
 
-fdsa
+node index.js
 
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
@@ -47,11 +47,11 @@ This project is licensed under the terms of the Apache license 2.0
 
 ## How to Contribute
 
-fdsa
+access github link
 
 ## Tests
 
-fdsa
+test
 
 ## Questions
 

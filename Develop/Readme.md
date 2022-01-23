@@ -25,9 +25,9 @@ node index.js
 ## Author 
 - Takara Truong
 
-## Deployed Link
+## Github Link
 
-fdsfsd
+https://github.com/truont2/portfolio-page-generator
 
 ## Installation
 
@@ -35,8 +35,10 @@ To install this application, clone the necessary files in the github repository.
 ## Usage
 
 In your index,js terminal, enter node index.js to run the application.
+
 ## Contribute
 
+To contribute, contact me at https://github.com/truont2/.
 
 ## Resources 
 
