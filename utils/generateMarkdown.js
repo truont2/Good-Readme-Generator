@@ -146,7 +146,7 @@ Example: ![alt text](assets/images/screenshot.png)
 ## Tests
 
 ${data.test}
-Testing
+
 Most users are weary of using open source code if the author(s) do not include tests. Without tests there is no verification that the code actually works. The testing section of the README file describes what tests you have created and how to run them.
 
 ## Contribute
