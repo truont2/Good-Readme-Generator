@@ -168,8 +168,8 @@ ${section}
 ## Questions
 Contact me for any further questions: 
 
-1. ![Github profile](https://github.com/${data.username}/)
-2. ![Email address](${data.email})
+1. [Github profile](https://github.com/${data.username}/)
+2. Email: ${data.email}
 `;
 }
 
