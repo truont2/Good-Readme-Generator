@@ -16,12 +16,6 @@ Instead of wasting time writing yourself a readme from scratch, this application
 
 This project taught be the fundamentals of using node and NPM to create an aplication without using the browser that can read, write, or edit files. I learned to use node.js to write files from scratch using the writeFile() method and how to use packages from npm such as inquirer to prompt questions for the user. A issue I encounterd while building this project was on fully understanding how inquirer worked, how the data was returned, and how the process that information. This was solved by reading the documentation on inquirer and noticing that the data can be accesssed in a promise that will then run the generateMarkdown function that was exported from generateMarkdown.js. Once I understood this, the application was built with little effort. In the future, I hope to possiby look into more npm packages and see if those features can be used to style the readme more. Such as adding images, icons, styling, and more to make a more professional readme.Another issue I plan to address in the future are displaying license badges. At the moment, only one badge can be displayed on the readme. This possibly can be fixed by using some sort of loop. 
 
-The application will be invoked by using the following command:
-
-```bash
-node index.js
-```
-
 ## Author 
 - Takara Truong
 
@@ -35,7 +29,16 @@ To install this application, clone the necessary files in the github repository.
 
 ## Usage
 
-First download any dependencies by opening your index,js terminal and entering "npm install". Once completed, enter node index.js to run the application. The terminal will then prompt the user for questions. If completed, the text "file written" will be displayed.
+The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
+
+1. First download any dependencies by opening your index,js terminal and entering "npm install". 
+2. Once completed, enter node index.js to run the application. 
+3. Answer any questions that load in the terminal. 
+4. Terminal will display "file written" to notifying the user that the readme file was sucessfully created.
 
 ### Video Walkthrough: 
 

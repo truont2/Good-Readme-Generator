@@ -64,7 +64,7 @@ function init() {
     // initiate the user prompt questions
     inquirer
         .prompt(questions)
-            .then(ans => writeToFile('Readmetest', ans))
+            .then(ans => writeToFile('Readme', ans))
             .then(() => { console.log('file written!')})
             // catch error if error is made
             .catch(err => console.error(err))
