@@ -6,6 +6,7 @@
 - [Deployed Link](#deployed-Link)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Test](#test)
 - [How to Contribute](#contribute)
 - [Resources](#resources)
 
@@ -39,6 +40,13 @@ First download any dependencies by opening your index,js terminal and entering "
 ### Video Walkthrough: 
 
 ![video walkthrough](./assets/walkthrough.gif)
+
+#### Extra screenshot:
+![screenshot](./assets/terminal.PNG)
+
+## Test 
+
+program was run in the index.js terminal creating a file called Readmetest.md.
 
 ## Contribute
 

@@ -126,7 +126,6 @@ Provide a short description explaining the what, why, and how of your project. U
 - [Usage](#usage)
 - [Tests](#tests)
 - [How to Contribute](#contribute)
-- [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
 
@@ -141,25 +140,16 @@ ${data.usage}
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 Add image relative path within ()
+
 Example: ![alt text](assets/images/screenshot.png)
 
 ## Tests
 
 ${data.test}
 
-Most users are weary of using open source code if the author(s) do not include tests. Without tests there is no verification that the code actually works. The testing section of the README file describes what tests you have created and how to run them.
-
 ## Contribute
 
 ${data.contribution}
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
